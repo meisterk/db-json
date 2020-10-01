@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Sabel",
+        "mitarbeiter": [
+            {
+                "vorname": "Anna",
+                "nachname": "Arm",
+                "teams": [
+                    "KN",
+                    "DB"
+                ]
+            },
+            {
+                "vorname": "Berta",
+                "nachname": "Bein",
+                "teams": [
+                    "KN"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "GBS",
+        "mitarbeiter": [
+            {
+                "vorname": "Carla",
+                "nachname": "Copf",
+                "teams": [
+                    "DB"
+                ]
+            }
+        ]
+    }
+]
